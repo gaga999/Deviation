@@ -1,0 +1,1 @@
+python3 main.py --mode train --train_task CT --epochs 30 --batch_size 4 --log_dir ./runs/train_ct

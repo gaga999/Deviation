@@ -6,4 +6,3 @@ tqdm>=4.62.3
 tensorboard>=2.7.0
 fastmri>=0.1.2.dev0
 ptwt>=0.1.5
-torch_radon

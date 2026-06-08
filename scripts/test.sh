@@ -1,0 +1,1 @@
+python3 main.py --mode test --test_task MRI --resume_weights ./checkpoints/best_model.pth
