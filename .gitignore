@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+runs/
+logs/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Dataset
+data/
+datasets/
